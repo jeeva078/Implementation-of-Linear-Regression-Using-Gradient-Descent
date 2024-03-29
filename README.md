@@ -105,7 +105,11 @@ plt.show()
 ## Output:
 
 ![ML 3 1 scr 316213804-ac35b08e-a32a-4721-8993-06253ced866c](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/3920a366-e134-4f3f-a55c-c65a6087f92b)
+![ml 3 2 scr  316213824-7cb3d0f6-e4ec-42d3-bc95-104631278144](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/abb91c52-3651-41a6-b1fa-a1ed9a85bda5)
+![ml 3 3 scr   316213764-187f654a-b0e5-4cbb-b9ee-36b09d79ecf6](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/26899cf9-5a3e-40e2-b387-1f2f787309df)
+![ml 3 4 scr   316213767-4dfcd137-6b63-4b1c-a866-90098b026f8a](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/158ed290-e9ff-4511-8450-310e8b2e9d40)
 
+![ML 3 5SCR  316213777-3acc9ddd-3055-4756-a5cc-917ba33ff5af](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/c2860430-c60e-4805-9d9a-f241bfd119df)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
