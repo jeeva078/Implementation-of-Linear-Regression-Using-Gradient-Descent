@@ -104,12 +104,8 @@ plt.show()
 ```
 ## Output:
 
-![image](https://github.com/Jayakrishnan22003251/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120232371/ac35b08e-a32a-4721-8993-06253ced866c)
-![image](https://github.com/Jayakrishnan22003251/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120232371/7cb3d0f6-e4ec-42d3-bc95-104631278144)
+![ML 3 1 scr 316213804-ac35b08e-a32a-4721-8993-06253ced866c](https://github.com/jeeva078/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/147048597/3920a366-e134-4f3f-a55c-c65a6087f92b)
 
-![image](https://github.com/Jayakrishnan22003251/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120232371/187f654a-b0e5-4cbb-b9ee-36b09d79ecf6)
-![image](https://github.com/Jayakrishnan22003251/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120232371/4dfcd137-6b63-4b1c-a866-90098b026f8a)
-![image](https://github.com/Jayakrishnan22003251/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/120232371/3acc9ddd-3055-4756-a5cc-917ba33ff5af)
 
 ## Result:
 Thus the program to implement the linear regression using gradient descent is written and verified using python programming.
